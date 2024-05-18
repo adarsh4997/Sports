@@ -1,0 +1,4 @@
+The cricket uses:
+1. Bat
+2. Bowl
+3. Wickets

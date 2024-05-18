@@ -1,0 +1,3 @@
+The badminton uses:
+1. Racket
+2. Shuttlecock
